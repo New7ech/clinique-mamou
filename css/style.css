@@ -1539,4 +1539,48 @@ a:focus {
   cursor: pointer;
   opacity: 1;
 }
+
+.leadership-welcome .section-title {
+  margin-bottom: 45px;
+}
+
+.leadership-card {
+  height: 100%;
+  background: #fff;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 14px 30px rgba(34, 58, 102, 0.12);
+}
+
+.leadership-photo {
+  background: #edf4fb;
+}
+
+.leadership-photo img {
+  width: 100%;
+  aspect-ratio: 1/1;
+  object-fit: cover;
+}
+
+.leadership-content {
+  padding: 28px;
+}
+
+.leadership-role {
+  color: #e12454;
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 0.8px;
+  text-transform: uppercase;
+}
+
+.leadership-content p {
+  line-height: 1.8;
+}
+
+@media (max-width: 768px) {
+  .leadership-content {
+    padding: 22px;
+  }
+}
 /*# sourceMappingURL=style.css.map */
