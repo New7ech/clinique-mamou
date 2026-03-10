@@ -69,7 +69,7 @@
 			</a>
 
 			<button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarmain"
-				aria-controls="navbarmain" aria-expanded="false" aria-label="Toggle navigation">
+				aria-controls="navbarmain" aria-expanded="false" aria-label="Basculer la navigation">
 				<span class="icofont-navigation-menu"></span>
 			</button>
 
@@ -84,14 +84,14 @@
 								aria-haspopup="true" aria-expanded="false">Départements <i class="icofont-thin-down"></i></a>
 						<ul class="dropdown-menu" aria-labelledby="dropdown02">
 								<li><a class="dropdown-item" href="department.html">Départements</a></li>
-								<li><a class="dropdown-item" href="department-single.html">Département Unique</a></li>
+								<li><a class="dropdown-item" href="department-single.html">Détail du département</a></li>
                     
 							<li class="dropdown dropdown-submenu dropright">
 									<a class="dropdown-item dropdown-toggle" href="#!" id="dropdown0301" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Sous-menu</a>
 			
 								<ul class="dropdown-menu" aria-labelledby="dropdown0301">
-									<li><a class="dropdown-item" href="index.html">Submenu 01</a></li>
-									<li><a class="dropdown-item" href="index.html">Submenu 02</a></li>
+									<li><a class="dropdown-item" href="service.html">Consultations</a></li>
+									<li><a class="dropdown-item" href="service.html">Maternité</a></li>
 								</ul>
 							</li>
 						</ul>
@@ -102,15 +102,15 @@
 								aria-haspopup="true" aria-expanded="false">Médecins <i class="icofont-thin-down"></i></a>
 						<ul class="dropdown-menu" aria-labelledby="dropdown03">
 								<li><a class="dropdown-item" href="doctor.html">Médecins</a></li>
-								<li><a class="dropdown-item" href="doctor-single.html">Médecin Unique</a></li>
+								<li><a class="dropdown-item" href="doctor-single.html">Profil du médecin</a></li>
 								<li><a class="dropdown-item" href="appoinment.html">Rendez-vous</a></li>
 
 							<li class="dropdown dropdown-submenu dropleft">
 									<a class="dropdown-item dropdown-toggle" href="#!" id="dropdown0501" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Sous-menu</a>
 			
 								<ul class="dropdown-menu" aria-labelledby="dropdown0501">
-									<li><a class="dropdown-item" href="index.html">Submenu 01</a></li>
-									<li><a class="dropdown-item" href="index.html">Submenu 02</a></li>
+									<li><a class="dropdown-item" href="service.html">Consultations</a></li>
+									<li><a class="dropdown-item" href="service.html">Maternité</a></li>
 								</ul>
 							</li>
 						</ul>
@@ -121,7 +121,7 @@
 								aria-haspopup="true" aria-expanded="false">Blog <i class="icofont-thin-down"></i></a>
 						<ul class="dropdown-menu" aria-labelledby="dropdown05">
 								<li><a class="dropdown-item" href="blog-sidebar.html">Blog avec Barre Latérale</a></li>
-								<li><a class="dropdown-item" href="blog-single.html">Article Unique</a></li>
+								<li><a class="dropdown-item" href="blog-single.html">Article</a></li>
 						</ul>
 					</li>
 					<li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li>
@@ -141,9 +141,9 @@
           <h1 class="text-capitalize mb-5 text-lg">Notre équipe médicale</h1>
 
           <!-- <ul class="list-inline breadcumb-nav">
-            <li class="list-inline-item"><a href="index.html" class="text-white">Home</a></li>
+            <li class="list-inline-item"><a href="index.html" class="text-white">Accueil</a></li>
             <li class="list-inline-item"><span class="text-white">/</span></li>
-            <li class="list-inline-item"><a href="#" class="text-white-50">All Doctors</a></li>
+            <li class="list-inline-item"><a href="#" class="text-white-50">Tous les médecins</a></li>
           </ul> -->
         </div>
       </div>
@@ -157,7 +157,7 @@
   <div class="container">
   	  <div class="row justify-content-center">
              <div class="col-lg-6 text-center">
-                <div class="section-title">
+				<div class="section-title">
                     <h2>Médecins</h2>
                     <div class="divider mx-auto my-4"></div>
                     <p>Découvrez l’équipe médicale et soignante de la Clinique Médicale Mamou SARL, engagée chaque jour pour votre santé et votre bien-être.</p>
@@ -171,22 +171,22 @@
 	            <input type="radio" name="shuffle-filter" value="all" checked="checked" />Tous les départements
 	          </label>
 	          <label class="btn ">
-	            <input type="radio" name="shuffle-filter" value="cat1" />Cardiologie
+	            <input type="radio" name="shuffle-filter" value="cat1" />Médecine générale
 	          </label>
 	          <label class="btn">
-	            <input type="radio" name="shuffle-filter" value="cat2" />Dentaire
+	            <input type="radio" name="shuffle-filter" value="cat2" />Biologie
 	          </label>
 	          <label class="btn">
-	            <input type="radio" name="shuffle-filter" value="cat3" />Neurologie
+	            <input type="radio" name="shuffle-filter" value="cat3" />Soins infirmiers
 	          </label>
 	          <label class="btn">
-	            <input type="radio" name="shuffle-filter" value="cat4" />Médecine
+	            <input type="radio" name="shuffle-filter" value="cat4" />Administration
 	          </label>
 	           <label class="btn">
-	            <input type="radio" name="shuffle-filter" value="cat5" />Pédiatrie
+	            <input type="radio" name="shuffle-filter" value="cat5" />Médecins
 	          </label>
 	          <label class="btn">
-	            <input type="radio" name="shuffle-filter" value="cat6" />Traumatologie
+	            <input type="radio" name="shuffle-filter" value="cat6" />Accueil
 	          </label>
 	        </div>
       </div>
@@ -201,7 +201,7 @@
 	            </div>
                 <div class="content mt-3">
                 	<h4 class="mb-0"><a href="doctor-single.html">Dr. KOALA Pegdewendé Arsène</a></h4>
-                	<p>Gérant - Médecine Générale</p>
+					<p>Gérant - Médecine générale</p>
                 	<p><i class="icofont-phone"></i> 57571986</p>
                 </div> 
 	      	</div>
@@ -259,7 +259,7 @@
 	            </div>
                 <div class="content mt-3">
                 	<h4 class="mb-0"><a href="doctor-single.html">KABORE Abdoulaye</a></h4>
-                	<p>Médecin chef de la Clinique</p>
+					<p>Médecin chef de la clinique</p>
                 </div> 
 	      	</div>
       	</div>
@@ -347,9 +347,9 @@
 					<ul class="list-unstyled footer-menu lh-35">
 						<li><a href="#!">Conditions générales</a></li>
 						<li><a href="#!">Politique de confidentialité</a></li>
-						<li><a href="#!">Support entreprise </a></li>
+						<li><a href="#!">Assistance</a></li>
 						<li><a href="#!">FAQ</a></li>
-						<li><a href="#!">Licence entreprise</a></li>
+						<li><a href="#!">Mentions légales</a></li>
 					</ul>
 				</div>
 			</div>
