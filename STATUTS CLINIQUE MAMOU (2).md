@@ -38,10 +38,10 @@ Le siège social pourra toujours être transféré, dans les limites du territoi
 Aussi, en vertu d'une décision extraordinaire de l’Assemblée des associés, la gérance, pourra ouvrir des succursales et agences partout où elle le jugera utile ; elle pourra également procéder à leur fermeture quand elle le jugera opportun et ce, dans les conditions ci-dessus.
 
 ARTICLE 5 : DUREE
-La durée de la société est fixée à Quatre Vingt Dix Neuf (99) années à compter de sa constitution définitive, sauf dissolution anticipée ou  prorogation prévue aux présents statuts.
+La durée de la société est fixée à Quatre Vingt Dix Neuf (99) années à compter de sa constitution définitive, sauf dissolution anticipée ou prorogation prévue aux présents statuts.
 
 ARTICLE 6 : EXERCICE SOCIAL
-L’exercice social commence le premier janvier et termine le trente et un décembre de chaque année.
+L’exercice social commence le premier janvier et se termine le trente et un décembre de chaque année.
 
 Par exception, le premier exercice social comprendra le temps à compter du jour de la constitution de la société jusqu'au 31 Décembre de l'année en cours.
 
@@ -62,7 +62,7 @@ Toute réduction du capital quelle que soit la forme, qui aurait pour conséquen
 
 
 
-Cette somme est fait l’objet d’un acte notarié de versement de capital.
+Cette somme fait l’objet d’un acte notarié de versement de capital.
 Les soussignés déclarent expressément que les cent (100) parts sociales sont détenues uniquement par eux, et que le montant ci-dessus indiqué a été intégralement libéré avec leurs deniers propres et ce, conformément aux textes en vigueur.
 
 ARTICLE 9 : REPRESENTATION DES PARTS SOCIALES
@@ -119,6 +119,7 @@ Conformément à l’article 328 de l’Acte Uniforme relatif au Droit des Soci�
 Toutefois, il est expressément convenu que tout achat, vente ou échange d'immeubles ou fonds de commerce, toute constitution d'hypothèque sur les immeubles sociaux ou de nantissement sur le ou les fonds de commerce appartenant à la société, ainsi que toute autre forme de garantie, caution, aval, etc., la fondation de toute société ou l'apport de tout ou partie des biens sociaux à une société constituée ou à constituer, ne pourront être réalisés sans avoir été autorisés au préalable par une décision ordinaire collective des Associés, et s'ils concernent directement ou indirectement la modification de l'objet social, par une décision collective extraordinaire.
 
 ARTICLE 15: DROITS DU GERANT et du GREANT ADJOINT
+ARTICLE 15: DROITS DU GÉRANT ET DU GÉRANT ADJOINT
 
 Le gérant pourra, sous sa propre responsabilité, constituer un ou plusieurs mandataires généraux ou spéciaux, pouvant autoriser ou signer tous actes dans la limite que lui conféreront ses pouvoirs. Mais, dans ce dernier cas, il devra faire précéder leur signature d'une mention indiquant leur qualité.
 
@@ -161,6 +162,7 @@ ARTICLE 20 : CESSATION DE FONCTIONS
 
 La cessation des fonctions du gérant n'entraînera pas la dissolution de la société.
 En cas de cessation de fonction du gérant, un autre est nommé par la collectivité des associés avec tous les pouvoirs indiqués à l'article 13 ci-dessus.
+En cas de cessation de fonction du gérant, un autre est nommé par la collectivité des associés avec tous les pouvoirs indiqués à l'article 14 ci-dessus.
 
 L'incapacité légale ou l'incapacité physique continue pendant une période de trois (3) mois du gérant entraîne de plein droit la cessation de ses fonctions et des avantages y afférents.
 
